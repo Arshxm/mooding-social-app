@@ -7,7 +7,7 @@ A Mobile app that Is just designed and it doesn't have any functions but it is p
 
 ## Screen Shots
 
-<img src="https://github.com/Arshxm/mooding-social-app/assets/76660001/0c11adbf-47a1-47f4-86e9-ec7cc56c0244" width="300" height="800">
+<img src="https://github.com/Arshxm/mooding-social-app/assets/76660001/0c11adbf-47a1-47f4-86e9-ec7cc56c0244" width="200" height="600">
 
 <img src="https://github.com/Arshxm/mooding-social-app/assets/76660001/efafa4f2-cf85-46d2-a905-4f83e9ac0087" width="100" height="300">
 
